@@ -4,5 +4,15 @@ references:
 generations:
   - name: "First Generation"
     start_year: 2008
+    end_year: 2013
+    description: "The Alfa Romeo MiTo was a three-door supermini designed to compete in the premium small car segment against vehicles like the MINI Cooper. Its name combined references to Milan (MI) and Turin (TO), the cities where it was designed and built respectively. The MiTo featured distinctive styling inspired by the 8C Competizione sports car, including teardrop headlights and Alfa's signature shield grille. The original design offered a 1.4L MultiAir turbocharged four-cylinder engine, naturally aspirated 1.4L petrol engines, and 1.3L/1.6L diesel options. The MiTo incorporated Alfa's DNA driving mode selector, allowing drivers to adjust throttle response, steering weight, and stability control settings."
+
+  - name: "First Generation (2014 Update)"
+    start_year: 2014
+    end_year: 2015
+    description: "The 2014 model year brought significant updates including a new turbocharged 0.9L TwinAir inline-twin engine (105 PS), new chrome-plated grille, new Anthracite Grey paint colour, and burnished front light clusters. The interior was refreshed with new upholstery, three new dashboard options, and a new Uconnect 5.0 infotainment system. The updated engine range included two turbodiesel options (1.3L JTDm E5+ and 1.6L JTDm), five petrol engines, and a 1.4L Turbo LPG variant."
+
+  - name: "First Generation (2016 Facelift)"
+    start_year: 2016
     end_year: 2020
-    description: "The Alfa Romeo MiTo was a three-door supermini designed to compete in the premium small car segment against vehicles like the MINI Cooper. Its name combined references to Milan (MI) and Turin (TO), the cities where it was designed and built respectively. The MiTo featured distinctive styling inspired by the 8C Competizione sports car, including teardrop headlights and Alfa's signature shield grille. It offered various engine options ranging from a 1.4L MultiAir turbocharged four-cylinder to a 1.6L diesel, with the Quadrifoglio Verde performance variant producing up to 170 HP. The MiTo incorporated Alfa's DNA driving mode selector, allowing drivers to adjust throttle response, steering weight, and stability control settings. Facelifts in 2014 and 2016 brought styling updates and improved equipment levels before the model was discontinued in 2020 after 293,428 units produced."
+    description: "Debuting at the 2016 Geneva Motor Show, this facelift featured a reworked front fascia with a new logo badge and new lettering. The trim lineup was reorganized to MiTo, Super, and Veloce variants. The previous MiTo QV became the Mito Veloce, available with the 170 PS engine and TCT transmission. New body colours and wheel options became available. This generation was discontinued in 2020 after 293,428 total units produced across the entire MiTo production run."
