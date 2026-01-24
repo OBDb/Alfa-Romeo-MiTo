@@ -1,5 +1,8 @@
+references:
+  - "https://en.wikipedia.org/wiki/Alfa_Romeo_MiTo"
+
 generations:
   - name: "First Generation"
     start_year: 2008
-    end_year: 2018
-    description: "The Alfa Romeo MiTo was a three-door supermini designed to compete in the premium small car segment against vehicles like the MINI Cooper. Its name combined references to Milan (MI) and Turin (TO), the cities where it was designed and built respectively. The MiTo featured distinctive styling inspired by the 8C Competizione sports car, including teardrop headlights and Alfa's signature shield grille. It offered various engine options ranging from a 1.4L MultiAir turbocharged four-cylinder to a 1.6L diesel, with the Quadrifoglio Verde performance variant producing up to 170 HP. The MiTo incorporated Alfa's DNA driving mode selector, allowing drivers to adjust throttle response, steering weight, and stability control settings. A facelift in 2014 brought styling updates and improved equipment levels before the model was discontinued in 2018 as part of Alfa Romeo's shift toward larger vehicles."
+    end_year: 2020
+    description: "The Alfa Romeo MiTo was a three-door supermini designed to compete in the premium small car segment against vehicles like the MINI Cooper. Its name combined references to Milan (MI) and Turin (TO), the cities where it was designed and built respectively. The MiTo featured distinctive styling inspired by the 8C Competizione sports car, including teardrop headlights and Alfa's signature shield grille. It offered various engine options ranging from a 1.4L MultiAir turbocharged four-cylinder to a 1.6L diesel, with the Quadrifoglio Verde performance variant producing up to 170 HP. The MiTo incorporated Alfa's DNA driving mode selector, allowing drivers to adjust throttle response, steering weight, and stability control settings. Facelifts in 2014 and 2016 brought styling updates and improved equipment levels before the model was discontinued in 2020 after 293,428 units produced."
